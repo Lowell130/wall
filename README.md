@@ -1,2 +1,2 @@
 # wall
-an ads wall based on "one million page"
+An ads wall based on "one million page" with AI-based random visualization
